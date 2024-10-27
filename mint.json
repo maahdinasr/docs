@@ -21,7 +21,7 @@
   },
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "About Fortify",
       "pages": [
         "introduction",
         "quickstart",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Styles",
       "pages": [
         "essentials/markdown",
         "essentials/code",
