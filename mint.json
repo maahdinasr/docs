@@ -1,11 +1,36 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Fortify",
+  "name": "Starter Kit",
   "logo": {
     "dark": "/logo/LogoDark.svg",
     "light": "/logo/LogoLight.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicons": [
+    {
+      "rel": "icon",
+      "type": "image/png",
+      "href": "/favicon-96x96.png",
+      "sizes": "96x96"
+    },
+    {
+      "rel": "icon",
+      "type": "image/svg+xml",
+      "href": "/favicon.svg"
+    },
+    {
+      "rel": "shortcut icon",
+      "href": "/favicon.ico"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "sizes": "180x180",
+      "href": "/apple-touch-icon.png"
+    },
+    {
+      "rel": "manifest",
+      "href": "/site.webmanifest"
+    }
+  ],
   "colors": {
     "primary": "#1570EF",
     "light": "#1570EF",
