@@ -48,15 +48,12 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Welcome to Fortify",
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Styles",
       "pages": [
-        "essentials/markdown",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
