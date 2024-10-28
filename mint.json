@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Fortify design system",
   "logo": {
     "dark": "/logo/fortifydarklogo.svg",
     "light": "/logo/fortifylogolight.svg"
