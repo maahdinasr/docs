@@ -5,7 +5,7 @@
     "dark": "/logo/fortifydarklogo.svg",
     "light": "/logo/fortifylogolight.svg"
   },
-  "favicon": "images/favicon.svg",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#1570EF",
     "light": "#1570EF",
